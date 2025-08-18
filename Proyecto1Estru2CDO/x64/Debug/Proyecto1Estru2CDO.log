@@ -1,0 +1,106 @@
+﻿  La referencia COM 'WMPLib.1.0' es el ensamblado de interoperabilidad del control ActiveX 'AxWMPLib.1.0' pero estaba marcada para su vinculación por el compilador con la marca /link. Esta referencia COM se tratará como una referencia y no se vinculará.
+  Main.cpp
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(36,14): warning C4677: 'Pistas': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(36,60): warning C4677: 'get': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(39,40): warning C4677: 'AgregarCancion': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(41,45): warning C4677: 'BuscarCancionPorId': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(45,14): warning C4677: 'Albumes': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaAlbumes'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaAlbumes.h(8,11):
+      vea la declaración de 'ListaAlbumes'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(45,57): warning C4677: 'get': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaAlbumes'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaAlbumes.h(8,11):
+      vea la declaración de 'ListaAlbumes'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(46,14): warning C4677: 'Canciones': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(46,63): warning C4677: 'get': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(95,45): warning C4677: 'BuscarCancionPorId': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(99,36): warning C4677: 'AgregarCancion': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "Main.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+  MyForm.cpp
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(36,14): warning C4677: 'Pistas': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(36,60): warning C4677: 'get': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(39,40): warning C4677: 'AgregarCancion': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Album.h(41,45): warning C4677: 'BuscarCancionPorId': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(45,14): warning C4677: 'Albumes': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaAlbumes'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaAlbumes.h(8,11):
+      vea la declaración de 'ListaAlbumes'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(45,57): warning C4677: 'get': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaAlbumes'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaAlbumes.h(8,11):
+      vea la declaración de 'ListaAlbumes'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(46,14): warning C4677: 'Canciones': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(46,63): warning C4677: 'get': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'ListaCanciones'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\ListaCanciones.h(14,11):
+      vea la declaración de 'ListaCanciones'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(95,45): warning C4677: 'BuscarCancionPorId': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Artistas.h(99,36): warning C4677: 'AgregarCancion': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Cancion'
+  (compilando archivo de origen "MyForm.cpp")
+      C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\Cancion.h(6,11):
+      vea la declaración de 'Cancion'
+  
+  Generando código...
+  Album.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Proyecto1Estru2CDO.vcxproj -> C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\x64\Debug\Proyecto1Estru2CDO.exe

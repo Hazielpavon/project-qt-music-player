@@ -1,0 +1,131 @@
+  Proyecto1Estru2CDO.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Proyecto1Estru2CDO, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.WMPLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly AxInterop.WMPLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Class Album: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.Drawing.Image, System.DateTime, System.String, System.String, System.String, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    ListaCanciones Pistas 'get ' : 
+    Boolean Publicado 'get set' : 
+    System.String Categoria 'get set' : 
+    System.String Genero 'get set' : 
+    System.DateTime Fecha 'get set' : 
+    System.String Descripcion 'get set' : 
+    System.Drawing.Image Portada 'get set' : 
+    System.String Titulo 'get set' : 
+    Int32 Id   'get set' : 
+  Methods:
+    get_Id(): PrivateScope, Public, HideBySig, SpecialName
+    set_Id(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Titulo(): PrivateScope, Public, HideBySig, SpecialName
+    set_Titulo(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Portada(): PrivateScope, Public, HideBySig, SpecialName
+    set_Portada(Image): PrivateScope, Public, HideBySig, SpecialName
+    get_Descripcion(): PrivateScope, Public, HideBySig, SpecialName
+    set_Descripcion(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Fecha(): PrivateScope, Public, HideBySig, SpecialName
+    set_Fecha(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_Genero(): PrivateScope, Public, HideBySig, SpecialName
+    set_Genero(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Categoria(): PrivateScope, Public, HideBySig, SpecialName
+    set_Categoria(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Publicado(): PrivateScope, Public, HideBySig, SpecialName
+    set_Publicado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_Pistas(): PrivateScope, Public, HideBySig, SpecialName
+    AgregarCancion(Cancion): PrivateScope, Public, HideBySig
+    EliminarCancionPorId(Int32): PrivateScope, Public, HideBySig
+    BuscarCancionPorId(Int32): PrivateScope, Public, HideBySig
+Class Nodo`1[T]: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Type parameter: T,  ReferenceType
+    Void .ctor(T): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    T data : Public
+    Nodo`1[T] next : Public
+Class Usuarios: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.DateTime, Boolean, System.Drawing.Image): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getId(): PrivateScope, Public, HideBySig
+    getUsername(): PrivateScope, Public, HideBySig
+    getEncryptedPassword(): PrivateScope, Public, HideBySig
+    getRealName(): PrivateScope, Public, HideBySig
+    getEmail(): PrivateScope, Public, HideBySig
+    getRegistrationDate(): PrivateScope, Public, HideBySig
+    getIsActive(): PrivateScope, Public, HideBySig
+    getAvatarPath(): PrivateScope, Public, HideBySig
+    setId(Int32): PrivateScope, Public, HideBySig
+    setUsername(String): PrivateScope, Public, HideBySig
+    setEncryptedPassword(String): PrivateScope, Public, HideBySig
+    setRealName(String): PrivateScope, Public, HideBySig
+    setEmail(String): PrivateScope, Public, HideBySig
+    setRegistrationDate(DateTime): PrivateScope, Public, HideBySig
+    setIsActive(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    setAvatarPath(Image): PrivateScope, Public, HideBySig
+Class Artistas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.Drawing.Image, System.String, System.DateTime, System.String, System.String, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean Estado 'get set' : 
+    System.String Genero 'get set' : 
+    System.String Pais 'get set' : 
+    System.DateTime FechaNacimiento 'get set' : 
+    System.String Contrasena 'get set' : 
+    System.Drawing.Image ImagenPerfil 'get set' : 
+    System.String NombreReal 'get set' : 
+    System.String NombreArtistico 'get set' : 
+    System.String CorreoElectronico 'get set' : 
+    Int32 Id   'get set' : 
+    System.String Usuario 'get set' : 
+    ListaCanciones Canciones 'get ' : 
+    ListaAlbumes Albumes 'get ' : 
+  Methods:
+    get_Albumes(): PrivateScope, Public, HideBySig, SpecialName
+    get_Canciones(): PrivateScope, Public, HideBySig, SpecialName
+    get_Usuario(): PrivateScope, Public, HideBySig, SpecialName
+    set_Usuario(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Id(): PrivateScope, Public, HideBySig, SpecialName
+    set_Id(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_CorreoElectronico(): PrivateScope, Public, HideBySig, SpecialName
+    set_CorreoElectronico(String): PrivateScope, Public, HideBySig, SpecialName
+    get_NombreArtistico(): PrivateScope, Public, HideBySig, SpecialName
+    set_NombreArtistico(String): PrivateScope, Public, HideBySig, SpecialName
+    get_NombreReal(): PrivateScope, Public, HideBySig, SpecialName
+    set_NombreReal(String): PrivateScope, Public, HideBySig, SpecialName
+    get_ImagenPerfil(): PrivateScope, Public, HideBySig, SpecialName
+    set_ImagenPerfil(Image): PrivateScope, Public, HideBySig, SpecialName
+    get_Contrasena(): PrivateScope, Public, HideBySig, SpecialName
+    set_Contrasena(String): PrivateScope, Public, HideBySig, SpecialName
+    get_FechaNacimiento(): PrivateScope, Public, HideBySig, SpecialName
+    set_FechaNacimiento(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_Pais(): PrivateScope, Public, HideBySig, SpecialName
+    set_Pais(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Genero(): PrivateScope, Public, HideBySig, SpecialName
+    set_Genero(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Estado(): PrivateScope, Public, HideBySig, SpecialName
+    set_Estado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    EliminarCancionPorId(Int32): PrivateScope, Public, HideBySig
+    BuscarCancionPorId(Int32): PrivateScope, Public, HideBySig
+    LimpiarCanciones(): PrivateScope, Public, HideBySig
+    TotalCanciones(): PrivateScope, Public, HideBySig
+    AgregarCancion(Cancion): PrivateScope, Public, HideBySig
+    AgregarAlbum(Album): PrivateScope, Public, HideBySig
+    EliminarAlbumPorId(Int32): PrivateScope, Public, HideBySig
+    BuscarAlbumPorId(Int32): PrivateScope, Public, HideBySig
+    TotalAlbumes(): PrivateScope, Public, HideBySig
+Class Proyecto1Estru2CDO.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

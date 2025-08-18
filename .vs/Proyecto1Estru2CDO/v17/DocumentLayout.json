@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Cancion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Cancion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Artistas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Artistas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaUsuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\ListaUsuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Album.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Album.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Usuarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Usuarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaCanciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\ListaCanciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaArtistas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\ListaArtistas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaAlbumes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\ListaAlbumes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaAlbumes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\ListaAlbumes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Artistas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Artistas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Album.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Album.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Cancion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Cancion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Usuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3000DE8A-6A45-2268-6A8D-5B8261A63F40}|Proyecto1Estru2CDO\\Proyecto1Estru2CDO.vcxproj|solutionrelative:Proyecto1Estru2CDO\\Usuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 122,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\MyForm.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\MyForm.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-17T22:00:25.791Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaAlbumes.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaAlbumes.cpp",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\ListaAlbumes.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaAlbumes.cpp",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\ListaAlbumes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T05:07:18.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Album.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Album.cpp",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Album.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Album.cpp",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Album.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T05:06:55.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaAlbumes.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaAlbumes.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\ListaAlbumes.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaAlbumes.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\ListaAlbumes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T04:53:41.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Album.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Album.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Album.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Album.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Album.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T04:53:24.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListaCanciones.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaCanciones.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\ListaCanciones.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaCanciones.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\ListaCanciones.h",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwIQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T05:23:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cancion.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Cancion.cpp",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Cancion.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Cancion.cpp",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Cancion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T05:15:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cancion.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Cancion.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Cancion.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Cancion.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Cancion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T05:09:11.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\MyForm.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\MyForm.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\MyForm.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\MyForm.h",
+              "ViewState": "AgIAACMBAAAAAAAAAAAAAE0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-28T01:54:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaUsuarios.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaUsuarios.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\ListaUsuarios.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaUsuarios.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\ListaUsuarios.h",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwFUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-07T01:37:42.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuarios.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Usuarios.cpp",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Usuarios.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Usuarios.cpp",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Usuarios.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T01:11:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuarios.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Usuarios.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Usuarios.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Usuarios.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Usuarios.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-07T01:11:04.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nodo.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Nodo.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Nodo.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Nodo.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Nodo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-07T01:09:32.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListaArtistas.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaArtistas.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\ListaArtistas.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\ListaArtistas.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\ListaArtistas.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T04:07:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Artistas.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Artistas.cpp",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Artistas.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Artistas.cpp",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Artistas.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwFcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T04:01:54.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Artistas.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Artistas.h",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Artistas.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Artistas.h",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Artistas.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T03:59:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Main.cpp",
+              "RelativeDocumentMoniker": "Proyecto1Estru2CDO\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Proyecto1Estru2-main (2)\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2-main\\Proyecto1Estru2CDO\\Main.cpp",
+              "RelativeToolTip": "Proyecto1Estru2CDO\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T02:15:44.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

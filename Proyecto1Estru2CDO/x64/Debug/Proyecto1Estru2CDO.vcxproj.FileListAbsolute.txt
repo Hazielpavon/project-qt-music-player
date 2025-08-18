@@ -1,0 +1,17 @@
+C:\Users\Administrador\Downloads\Estru\Proyecto1Estru2CDO\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\Estru\Proyecto1Estru2CDO\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.MyForm.resources
+C:\Users\Administrador\Downloads\Estru\Proyecto1Estru2CDO\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.GenerateResource.cache
+C:\Users\hapav\Downloads\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.AssemblyReference.cache
+C:\Users\hapav\Downloads\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.MyForm.resources
+C:\Users\hapav\Downloads\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.MyForm.resources
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.GenerateResource.cache
+C:\Users\hapav\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.AssemblyReference.cache
+C:\Users\hapav\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.MyForm.resources
+C:\Users\hapav\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.GenerateResource.cache
+C:\Users\hapav\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.ResolveComReference.cache
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.ResolveComReference.cache
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.MyForm.resources
+C:\Users\Administrador\Downloads\Proyecto1Estru2-main (2)\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2-main\Proyecto1Estru2CDO\x64\Debug\Proyecto1Estru2CDO.vcxproj.GenerateResource.cache
